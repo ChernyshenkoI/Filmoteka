@@ -1,22 +1,22 @@
 {
-  "name": "parcel-project-template",
+  "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://darinadari13/.github.io/project-js",
+  "homepage": "https://nadin-n/.github.io/filmoteka",
   "scripts": {
     "startnc": "rm -rf .parcel-cache && parcel src/*.html --no-cache",
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-js/"
+    "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Nadin-N/filmoteka.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Nadin-N/filmoteka/issues"
   },
   "dependencies": {
     "axios": "^1.2.3",
