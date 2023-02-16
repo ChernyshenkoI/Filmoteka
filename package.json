@@ -2,7 +2,7 @@
   "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://nadin-n/.github.io/filmoteka",
+  "homepage": "https://ChernyshenkoI/.github.io/filmoteka",
   "scripts": {
     "startnc": "rm -rf .parcel-cache && parcel src/*.html --no-cache",
     "start": "parcel src/*.html",
